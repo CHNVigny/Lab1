@@ -87,4 +87,7 @@ public class linkTable//一个二维链表类
 		}
 		
 	}
-//branch B1 and C4.
+
+//branch B1 and C4 and B2.
+
+

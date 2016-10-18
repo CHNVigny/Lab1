@@ -5,4 +5,4 @@ class node
 		int exp;
 		node next=null,link=null;
 	}
-//branch B1 and C4.
+//branch B1 and C4 and B2.
