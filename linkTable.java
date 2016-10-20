@@ -5,7 +5,7 @@ public class linkTable//一个二维链表类
 
 		public node insert(int fac)//插入每列的头节点，返回该节点
 		//插入系数节点
-
+		//tby
 		{
 			node n=new node();
 			n.fac=fac;
